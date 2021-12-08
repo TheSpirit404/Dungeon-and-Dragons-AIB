@@ -43,3 +43,9 @@
   -Elfo,recebe um bónus ao nível da inteligência e destreza;
   -Ogre, recebe dois pontos extras ao nível da força;
   -Anão, recebe bónus de um ponto ao nível da inteligência e força;
+  
+## Como compilar D&D v1.
+1. Transfira o [documento cpp D&D v1.]
+2. Abra a mesma num compilador como o VisualStudio ou SublimeText, caso esteja a utilizar um macOS poderá sempre experimentar no Xcode.
+3. Clicar no botão "Run" que se encontra no canto superior direito ou selecione tudo e faça Ctrl+N.
+
