@@ -104,5 +104,9 @@
 - string;
 ###### Horas utilizadas para a realização do programa (fora da aula):
 Cerca de **10 horas investidas** para a pesquisa, animação/grafismo, entre outras contribuições.
+## Fluxograma
+[Parte 1](https://lucid.app/lucidchart/cf14f893-43ea-46b5-990f-200be55240ed/edit?invitationId=inv_4e2addf6-a729-4d45-aa23-36876ee4502e)
+
+[Parte 2](https://lucid.app/lucidchart/e9e56234-b637-4cd2-9996-51ce233e8c3c/edit?invitationId=inv_8c69b7b7-4ba0-4135-ac78-7820f4495830)
 
 
